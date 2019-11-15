@@ -55,13 +55,9 @@ WebElement dropdown= driver.findElement(By.id("open_account"));
 				System.out.println(cityname);
 			}
 			
-			
-			
-		}
+			}
 	    
-	    
-	 
-	    	
+	    	    	
   }
   @BeforeMethod
   public void beforeMethod() 
